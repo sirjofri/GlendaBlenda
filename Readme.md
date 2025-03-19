@@ -1,5 +1,7 @@
 # GlendaBlenda - A Plan 9 Glenda 3d model
 
+![rendered image of glenda](front.png)
+
 This 3d model is optimized for 3d printing.
 
 ## 3D print details
