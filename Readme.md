@@ -10,3 +10,17 @@ This 3d model is optimized for 3d printing.
 - I try to minimize supports. In an ideal world, you don't need supports for this print.
 - The eyes and ears are holes so the print looks good without coloring.
 - The original artwork is created by Renée French.
+
+## Customization
+
+To adjust the model to your printing requirements, I added a few modifiers:
+
+- The structure that connects the teeth to the body can be extended to print the teeth without supports. Move the `Tooth Support` circle.
+- The size of the eyes can be increased. Scale the `Eye Size` circle.
+
+## Printing
+
+### Smaller prints
+
+- I recommend to customize the model so you can print it without supports.
+- Print with a brim or a raft.
